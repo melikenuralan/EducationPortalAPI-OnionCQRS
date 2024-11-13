@@ -2,6 +2,7 @@
 
 Eğitim Portalı Uygulaması - Restful API
 
+
 ## Kullanılan Teknolojiler ve Araçlar
 Bu projede kullanılan başlıca teknolojiler ve yapı özellikleri aşağıdaki gibidir:
 
